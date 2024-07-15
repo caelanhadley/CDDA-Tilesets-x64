@@ -1,7 +1,7 @@
 #Ultimate Cataclysm
 
-NAME: UltimateCataclysm
-VIEW: UltiCa
+NAME: UltimateCataclysm64
+VIEW: UltiCa64
 JSON: tile_config.json
 TILESET: tiles.png
 
